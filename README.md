@@ -1,4 +1,4 @@
-# EBOOK O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais
+# Desafio EBOOK O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais
 
 ## 📒 Descrição
 Este EBOOK tem por objetivo  alertar e informar sobre a questão das bets e de seus riscos no uso indiscriminado por beneficiários de beneficios sociais.
