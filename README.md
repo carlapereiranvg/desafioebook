@@ -10,7 +10,7 @@ Este EBOOK tem por objetivo  alertar e informar sobre a questão das bets e de s
 
 -► Roteiro: Conteúdo gerado pelo ChatGPT;
 -► Software de editoração: Adobe Indesign
--► Imagens: IA Generativa **[Copilot]((https://copilot.microsoft.com//))**;
+-► Imagens: IA Generativa **[MIDJOURNEY]((https://www.midjourney.com/))**;
 -► QRCODE: IA Generativa **[chatgpt]((https://chatgpt.com///))**;
 
 
