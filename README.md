@@ -1,26 +1,29 @@
-# Podcast: O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais
+# EBOOK O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais
 
 ## 📒 Descrição
-Este podcast tem por objetivo e alertar e informar sobre a questão das bets e de seus riscos no uso indiscriminado por beneficiários de beneficios sociais.
+Este EBOOK tem por objetivo  alertar e informar sobre a questão das bets e de seus riscos no uso indiscriminado por beneficiários de beneficios sociais.
 
 
 ## 🤖 Tecnologias Utilizadas
 
-### Podcast
+### EBOOK
 
 -► Roteiro: Conteúdo gerado pelo ChatGPT;
--► Leitura de Texto: IA Generativa **[ElevenLabs]((https://elevenlabs.io/))**;
+-► Software de editoração: Adobe Indesign
+-► Imagens: IA Generativa **[Copilot]((https://copilot.microsoft.com//))**;
+-► QRCODE: IA Generativa **[chatgpt]((https://chatgpt.com///))**;
+
 
 ## 🧐 Processo de Criação
-Foi utilizado "ChatGPT" para gerar a pesquisa textual sobre tema, estruturar o conteúdo e refinar as ideias. Para concluir, a edição final do texto foi feita no Microsoft Word, por ser uma ferramenta especifica para edição de texto.
+Foi utilizado "ChatGPT" para gerar a pesquisa textual sobre tema, estruturar o conteúdo e refinar as ideias. Para concluir, a edição final do texto foi feita no Adobe Indesign, por ser uma ferramenta especifica para editoração eletronica.
 
-Para geração do Podcast, foi aproveitado o conteúdo do assunto, mas de forma resumida, a fim de passar a informação e idéia central do texto completo.
+Para geração das imagens dois GPT's foram utilizados.
 
 ## 🚀 Resultados
 
-Ja o Podcast foi resumido para não se tornar cansativo e ser informativo, mostrando a precisão e a facilidade em gerar conteúdos de audio.
+O resultado final foi um ebook bem estruturado, elegante e com conteudo claro, facilitando a compreensão do assunto pelo leitor.
 
-»»» [[O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais](https://github.com/carlapereiranvg/lab-natty-or-not/blob/main/Podcast%20-%20IA%20generati%20a%20e%20Tratamento%20de%20Doen%C3%A7as.mp3)]()
+»»» [[O Perigo das Bets na Saúde Financeira dos Beneficiários de Programas Sociais](https://github.com/carlapereiranvg/desafiocaixa/blob/main/Ebook%20-%20O%20Perigo%20das%20Bets%20para%20beneficiarios.pdf)]()
 
 ## 💭 Reflexão
 O criação de conteúdo exige pesquisa referenciavel e precisa, com o apoio de IA's esta tafera se torna fácil e pouco cansativa.
